@@ -10,10 +10,4 @@
 ![Screenshot (51)](https://github.com/KWAGALA-JOANNA/DBMSExam/assets/142006038/4d6b5570-0f24-4ad9-8afa-49cca5de47de)
 ![Screenshot (50)](https://github.com/KWAGALA-JOANNA/DBMSExam/assets/142006038/a66d5377-4a77-4a91-a3f6-b011e0ed0321)
 ![Screenshot (49)](https://github.com/KWAGALA-JOANNA/DBMSExam/assets/142006038/22f94835-e033-4c65-a08a-294d4208399a)
-![Screenshot (48)](https://github.com/KWAGALA-JOANNA/DBMSExam/assets/142006038/9c99c4f6-8917-418e-ada0-1c6fd97164a7)
-![Screenshot (47)](https://github.com/KWAGALA-JOANNA/DBMSExam/assets/142006038/08266241-acac-4892-9dc6-61ad516b25c0)
-![Screenshot (45)](https://github.com/KWAGALA-JOANNA/DBMSExam/assets/142006038/7cc06ad5-ac52-46fa-bd4b-e48aa2d820aa)
-![Screenshot (44)](https://github.com/KWAGALA-JOANNA/DBMSExam/assets/142006038/572c1f08-86ab-4608-b680-4ab0970ecada)
-![Screenshot (43)](https://github.com/KWAGALA-JOANNA/DBMSExam/assets/142006038/fe566f95-5d10-4a77-9540-c38d367f85f5)
-![Screenshot (42)](https://github.com/KWAGALA-JOANNA/DBMSExam/assets/142006038/6b9f2324-1262-4e55-b7af-d32206907eae)
-![Screenshot (41)](https://github.com/KWAGALA-JOANNA/DBMSExam/assets/142006038/d09d1842-1d8d-4f15-897d-b6c5b79b41f6)
+
