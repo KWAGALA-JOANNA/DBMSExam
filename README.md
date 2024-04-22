@@ -1,7 +1,6 @@
 ![Screenshot (63)](https://github.com/KWAGALA-JOANNA/DBMSExam/assets/142006038/bd75101f-058f-45ad-9fbe-7c0975976a57)
 ![Screenshot (61)](https://github.com/KWAGALA-JOANNA/DBMSExam/assets/142006038/e25dc86b-a395-40ae-a817-4eda2a63b124)
 ![Screenshot (55)](https://github.com/KWAGALA-JOANNA/DBMSExam/assets/142006038/7a51be11-063b-4859-86b6-93ad8b00316e)
-![Screenshot (54)](https://github.com/KWAGALA-JOANNA/DBMSExam/assets/142006038/1e93ae5f-90fc-4a6d-8fc8-b63f775deaee)
 ![Screenshot (60)](https://github.com/KWAGALA-JOANNA/DBMSExam/assets/142006038/74248890-433b-4fe6-aa3f-a1c44e90a959)
 ![Screenshot (59)](https://github.com/KWAGALA-JOANNA/DBMSExam/assets/142006038/b67d1959-5c51-4faa-96f0-d80f2c206b83)
 ![Screenshot (58)](https://github.com/KWAGALA-JOANNA/DBMSExam/assets/142006038/13e86e8f-c1c9-4fb5-acae-70960fba31ae)
